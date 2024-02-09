@@ -5,6 +5,6 @@
 <p> <b> Subject Code: </b> CSA0927<p>
 
   <div style="max-width: 500px; margin-left: 50px;">
-  <H6> JAVA PROGRAMMING</H6>
+  <H1> JAVA PROGRAMMING</H1>
     <P>Java is a popular and versatile programming language that was created in 199512. It is owned by Oracle, and more than 3 billion devices run Java1. Here are some key features of Java:</P>
   </div>
