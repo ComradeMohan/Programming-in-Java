@@ -1,6 +1,6 @@
 
   <img align="right" alt ="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
-  <div style="widith:100px">
+  <div style="width:100px,padding:10px">
 <p ><b>Name:</b> M Mohan Reddy </p>
 <p ><b>Reg no:</b> 192210400 </p>
 <p> <b> Subject Code: </b> CSA0927</p></div>
