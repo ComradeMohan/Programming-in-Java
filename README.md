@@ -9,3 +9,8 @@
   <H1> JAVA PROGRAMMING</H1>
     <P>Java is a popular and versatile programming language that was created in 1995. It is owned by Oracle, and more than 3 billion devices run Java1. Here are some key features of Java:</P>
   </div>
+
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ComradeMohan-Programming-in-Java/count.svg" />
+</p>
